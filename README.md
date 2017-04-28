@@ -1,4 +1,4 @@
-## Relationals-Db
+## Data Management: MySQL Workbench
 #Assignment using: 
 - VM through Okeanos (OS: Ubuntu Server LTS, No GUI)
 - PuTTY (SSH, Telnet and Rlogin client)
