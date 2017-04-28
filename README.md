@@ -1,5 +1,5 @@
-# Relationals-Db
-Assignment using: 
+## Relationals-Db
+#Assignment using: 
 - VM through Okeanos (OS: Ubuntu Server LTS, No GUI)
 - PuTTY (SSH, Telnet and Rlogin client)
 - MemSQL Community Edition (MemSQL Ops 4.1.9)
@@ -9,7 +9,7 @@ Assignment using:
 - IntelliJ community edition 15.0.2
 - Visual Studio Community Edition 2015
 
-
+#Tasks:
 - Design a database for the system of a mental health institute, being extra careful of data redudancy issues.
 - Fill in the tables with random data produced by Java program. 
 - Write SQL queries to retrieve information.
