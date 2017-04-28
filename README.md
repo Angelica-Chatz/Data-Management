@@ -1,4 +1,4 @@
-## Data Management: MySQL Workbench & MemSQL Community Edition
+## Data Management 1
 #Assignment using: 
 - VM through Okeanos (OS: Ubuntu Server LTS, No GUI)
 - PuTTY (SSH, Telnet and Rlogin client)
